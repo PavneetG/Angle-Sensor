@@ -16,9 +16,10 @@ Steps:
         Alternately, In mode 1, the LED’s light up in bar format in interval of 10 degrees.  
  
  
+ ![Circuit](https://user-images.githubusercontent.com/24720856/64912008-ff989780-d6f6-11e9-9794-6e7216cf1aca.png)
+
  
- 
- 
+
  
  
 Sincerely,
